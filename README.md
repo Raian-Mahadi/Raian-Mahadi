@@ -1,4 +1,4 @@
-## 💫 About Me :
+## ✨ About Me :
 I am <b>Raian Mahadi</b>, a BSc student in Computer Science and Engineering with a passion for programming, software development and continuous growth. I enjoy solving problems, building projects and exploring technologies that strengthen my practical and technical knowledge. I am committed to developing my skills and creating solutions that are both useful and efficient.
 
 ## 🌐 Socials :
